@@ -18,7 +18,7 @@ public class Constants {
     public static final String CMCC_SOURCE_DATA_FLAG_KEY = "cmcc_source_data_flag_key"; //请求原始数据标识：0 开启；1 停止
     public static final String CMCC_DATA_FLAG_ON = "0";
     public static final String CMCC_DATA_FLAG_OFF = "1";
-    
+    //天长地久有时尽，此恨绵绵无绝期
     //错误编码
     public static final String ERROR_PARAM = "40001"; //请求参数错误
     public static final String ERROR_REQUEST_MESSAGE = "40002"; //请求报文格式错误
