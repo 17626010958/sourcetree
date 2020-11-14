@@ -29,7 +29,7 @@ public class Constants {
     public static final String ERROR_CITYCODE = "40008"; //城市编码错误
     public static final String ERROR_MANU = "40009"; //厂商标识错误
     public static final String ERROR_OTHER = "40010"; //其它错误
-    
+    //念天地之悠悠，独怆然而涕下
     //1表示时报2表示日报3表示周报4表示月报
     public static final int REPORT_TYPE_HOUR = 1;
     public static final int REPORT_TYPE_DAY = 2;
